@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-puzzlebot",
   "version": "0.1.0",
   "description": "",
   "keywords": [
@@ -9,11 +9,11 @@
   "homepage": "",
   "author": {
     "name": "",
-    "email": ""
+    "email": "ivan@ncbot.space"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<...>/n8n-nodes-<...>.git"
+    "url": "https://github.com/ivaneliseeff/n8n-puzzlebot"
   },
   "main": "index.js",
   "scripts": {
