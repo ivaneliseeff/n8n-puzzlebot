@@ -17,22 +17,11 @@ export const httpVerbOperations: INodeProperties[] = [
 			{
 				name: 'GET',
 				value: 'get',
-				action: 'Perform a GET request',
+				action: 'Moderation',
 				routing: {
 					request: {
 						method: 'GET',
 						url: '/get',
-					},
-				},
-			},
-			{
-				name: 'DELETE',
-				value: 'delete',
-				action: 'Perform a DELETE request',
-				routing: {
-					request: {
-						method: 'DELETE',
-						url: '/delete',
 					},
 				},
 			},
